@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 40%;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+    width: 98%;     
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    padding: 0.5%;
+}

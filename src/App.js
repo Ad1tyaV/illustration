@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import TitleBar from './components/TitleBar';
+import MainContent from './components/MainContent';
+import BottomBar from './components/BottomBar';
+import data from './components/static_data/1.json'
+import { ChapterProvider } from './context/ChapterContext';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ChapterProvider>
+        <TitleBar/>
+        <MainContent data={data}/>      
+        <BottomBar/>
+      </ChapterProvider>
     </div>
   );
 }
