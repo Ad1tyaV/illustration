@@ -1,8 +1,8 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect } from "react";
 import "./styles/main_content.css";
 import { ChapterContext } from "../context/ChapterContext";
 
-function MainContent(props) {
+function MainContent() {
   const { chapter } = useContext(ChapterContext);
   const data = require(`./static_data/${chapter}.json`);
 
