@@ -17,4 +17,6 @@ function App() {
   );
 }
 
+// npx prettier --write "src/**/*.jsx"
+
 export default App;

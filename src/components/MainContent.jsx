@@ -6,7 +6,7 @@ function MainContent() {
   const { chapter } = useContext(ChapterContext);
   const data = require(`./static_data/${chapter}.json`);
 
-  useEffect(()=>{
+  useEffect(() => {
     window.scrollTo(0, 0);
   }, [chapter]);
 
