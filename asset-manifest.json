@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/illustration/static/css/main.ff34dd31.css",
-    "main.js": "/illustration/static/js/main.171a6e86.js",
+    "main.css": "/illustration/static/css/main.d2503b02.css",
+    "main.js": "/illustration/static/js/main.52ab5056.js",
     "static/js/453.da561770.chunk.js": "/illustration/static/js/453.da561770.chunk.js",
+    "static/media/rama_search_2.webp": "/illustration/static/media/rama_search_2.829813f8a9f3322b04d4.webp",
+    "static/media/return_to_ayodhya.webp": "/illustration/static/media/return_to_ayodhya.cd91c48105e497b7525a.webp",
+    "static/media/exile_of_rama.webp": "/illustration/static/media/exile_of_rama.3cd500a88c8801483eff.webp",
+    "static/media/sage_vishwamitra.webp": "/illustration/static/media/sage_vishwamitra.3c32442a4eabfcdfe539.webp",
+    "static/media/sita_abduction_jatayu.webp": "/illustration/static/media/sita_abduction_jatayu.059e5592fbc815de9a81.webp",
+    "static/media/swayamvaram.webp": "/illustration/static/media/swayamvaram.9979aeabb4f0382e5f1a.webp",
+    "static/media/lava_kusha_birth.webp": "/illustration/static/media/lava_kusha_birth.0585f5e5393091fadb1a.webp",
+    "static/media/birth_rama.webp": "/illustration/static/media/birth_rama.a4cce24db70c4fad679d.webp",
+    "static/media/sita_abduction.webp": "/illustration/static/media/sita_abduction.a91d1990bbb35e48a340.webp",
+    "static/media/Battle_of_lanka.webp": "/illustration/static/media/Battle_of_lanka.ec9bf6df64ec75b602e2.webp",
+    "static/media/life_in_forest.webp": "/illustration/static/media/life_in_forest.2eacdc8522216b7e15a0.webp",
+    "static/media/Rama_search.webp": "/illustration/static/media/Rama_search.38fdf63375a72e4b8836.webp",
+    "static/media/rama_sarayu.webp": "/illustration/static/media/rama_sarayu.05165259a99462b5492d.webp",
     "index.html": "/illustration/index.html",
-    "main.ff34dd31.css.map": "/illustration/static/css/main.ff34dd31.css.map",
-    "main.171a6e86.js.map": "/illustration/static/js/main.171a6e86.js.map",
+    "main.d2503b02.css.map": "/illustration/static/css/main.d2503b02.css.map",
+    "main.52ab5056.js.map": "/illustration/static/js/main.52ab5056.js.map",
     "453.da561770.chunk.js.map": "/illustration/static/js/453.da561770.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff34dd31.css",
-    "static/js/main.171a6e86.js"
+    "static/css/main.d2503b02.css",
+    "static/js/main.52ab5056.js"
   ]
 }
