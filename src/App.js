@@ -2,7 +2,7 @@ import './App.css';
 import TitleBar from './components/TitleBar';
 import MainContent from './components/MainContent';
 import BottomBar from './components/BottomBar';
-import data from './components/static_data/1.json'
+import data from './components/static_data/responses/1.json'
 import { ChapterProvider } from './context/ChapterContext';
 
 function App() {

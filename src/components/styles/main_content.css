@@ -1,17 +1,25 @@
 .chapter {
-    text-align: center;
+  text-align: center;
 }
 
 .content {
-    margin-left: 10%;
-    margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .facts {
-    margin-left: 10%;
-    margin-right: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .mc-container {
-    padding-bottom: 15%;
+  padding-bottom: 15%;
+}
+
+.imageGrid {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
 }

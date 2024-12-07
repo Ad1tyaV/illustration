@@ -1,10 +1,11 @@
 import React, { useContext, useEffect } from "react";
 import "./styles/main_content.css";
 import { ChapterContext } from "../context/ChapterContext";
+import ImageContainer from "./ImageContainer";
 
 function MainContent() {
   const { chapter } = useContext(ChapterContext);
-  const data = require(`./static_data/${chapter}.json`);
+  const data = require(`./static_data/responses/${chapter}.json`);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -21,6 +22,14 @@ function MainContent() {
             ))}
           </ul>
         )}
+      </div>
+      <div className="imageGrid">
+      {
+        data.images && 
+        data.images.map(imageObject=>(
+          <ImageContainer image={imageObject.image} description={imageObject.description} />
+        ))
+      }      
       </div>
       <div className="facts">
         {data.funfacts && (
