@@ -24,7 +24,7 @@ export const NavBar = () => {
           setChapter(chapter - 1);
         }}
         style={{
-          visibility: chapter === 1 ? "hidden" : story ? "visible" : "hidden",
+          visibility: story ? (chapter === 1 ? "hidden" : "visible") : "hidden",
         }}
       >
         <SkipPrevious />
@@ -45,7 +45,11 @@ export const NavBar = () => {
           setChapter(chapter + 1);
         }}
         style={{
-          visibility: chapter === 14 ? "hidden" : story ? "visible" : "hidden",
+          visibility: story
+            ? chapter === 14
+              ? "hidden"
+              : "visible"
+            : "hidden",
         }}
       >
         <SkipNext />
