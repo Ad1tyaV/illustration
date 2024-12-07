@@ -2,15 +2,10 @@ import React, { useContext, useEffect } from "react";
 import "./styles/main_content.css";
 import { ChapterContext } from "../context/ChapterContext";
 import ImageContainer from "./ImageContainer";
-import { StoriesContext } from "../context/StoriesContext";
-import { Stories } from "../utils/Stories";
 
-function MainContent() {
+function MainContentV2() {
   const { chapter } = useContext(ChapterContext);
-  const { story } = useContext(StoriesContext);
-  const data = require(
-    `./static_data/responses/${Stories[story]}/${chapter}.json`,
-  );
+  const data = require(`./static_data/responses/${chapter}.json`);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -23,7 +18,7 @@ function MainContent() {
         {data.content && (
           <ul>
             {data.content.map((para) => (
-              <li style={{ paddingBottom: "3%" }}>{para}</li>
+              <li>{para}</li>
             ))}
           </ul>
         )}

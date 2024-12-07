@@ -1,6 +1,6 @@
 import React, { createContext, useState } from "react";
 
-export const ChapterContext = createContext(1);
+export const ChapterContext = createContext(null);
 
 export const ChapterProvider = ({ children }) => {
   const [chapter, setChapter] = useState(1);
