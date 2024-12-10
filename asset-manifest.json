@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/illustration/static/css/main.d2503b02.css",
-    "main.js": "/illustration/static/js/main.93b6228b.js",
-    "static/js/453.da561770.chunk.js": "/illustration/static/js/453.da561770.chunk.js",
+    "main.js": "/illustration/static/js/main.86fe875d.js",
+    "static/js/453.3f8c4aa0.chunk.js": "/illustration/static/js/453.3f8c4aa0.chunk.js",
     "static/media/rama_search_2.webp": "/illustration/static/media/rama_search_2.829813f8a9f3322b04d4.webp",
     "static/media/return_to_ayodhya.webp": "/illustration/static/media/return_to_ayodhya.cd91c48105e497b7525a.webp",
     "static/media/exile_of_rama.webp": "/illustration/static/media/exile_of_rama.3cd500a88c8801483eff.webp",
@@ -18,11 +18,11 @@
     "static/media/rama_sarayu.webp": "/illustration/static/media/rama_sarayu.05165259a99462b5492d.webp",
     "index.html": "/illustration/index.html",
     "main.d2503b02.css.map": "/illustration/static/css/main.d2503b02.css.map",
-    "main.93b6228b.js.map": "/illustration/static/js/main.93b6228b.js.map",
-    "453.da561770.chunk.js.map": "/illustration/static/js/453.da561770.chunk.js.map"
+    "main.86fe875d.js.map": "/illustration/static/js/main.86fe875d.js.map",
+    "453.3f8c4aa0.chunk.js.map": "/illustration/static/js/453.3f8c4aa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2503b02.css",
-    "static/js/main.93b6228b.js"
+    "static/js/main.86fe875d.js"
   ]
 }
