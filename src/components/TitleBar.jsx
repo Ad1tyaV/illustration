@@ -7,7 +7,7 @@ function TitleBar() {
         textAlign: "center",
       }}
     >
-      <h1>Illustration</h1>
+      <h1>Story Book</h1>
     </div>
   );
 }
