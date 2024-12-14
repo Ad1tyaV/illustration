@@ -15,8 +15,6 @@ export const NavBar = () => {
   useEffect(() => {
     if (story) {
       const chapters = getChapters(story);
-      console.log("Story=", story);
-      console.log("Chapters=", chapters);
       setMaxChapters(chapters);
     }
   }, [story]);
