@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/illustration/static/css/main.d2503b02.css",
-    "main.js": "/illustration/static/js/main.86fe875d.js",
+    "main.js": "/illustration/static/js/main.be1b56c3.js",
     "static/js/453.3f8c4aa0.chunk.js": "/illustration/static/js/453.3f8c4aa0.chunk.js",
+    "static/media/valmiki_vision.webp": "/illustration/static/media/valmiki_vision.56187d76913e1c659a5b.webp",
     "static/media/rama_search_2.webp": "/illustration/static/media/rama_search_2.829813f8a9f3322b04d4.webp",
     "static/media/return_to_ayodhya.webp": "/illustration/static/media/return_to_ayodhya.cd91c48105e497b7525a.webp",
     "static/media/exile_of_rama.webp": "/illustration/static/media/exile_of_rama.3cd500a88c8801483eff.webp",
@@ -10,19 +11,26 @@
     "static/media/sita_abduction_jatayu.webp": "/illustration/static/media/sita_abduction_jatayu.059e5592fbc815de9a81.webp",
     "static/media/swayamvaram.webp": "/illustration/static/media/swayamvaram.9979aeabb4f0382e5f1a.webp",
     "static/media/lava_kusha_birth.webp": "/illustration/static/media/lava_kusha_birth.0585f5e5393091fadb1a.webp",
+    "static/media/hanuman_firing_lanka.webp": "/illustration/static/media/hanuman_firing_lanka.4df16f9929163cf2a6af.webp",
     "static/media/birth_rama.webp": "/illustration/static/media/birth_rama.a4cce24db70c4fad679d.webp",
+    "static/media/indrajit_and_kumbhkarn.webp": "/illustration/static/media/indrajit_and_kumbhkarn.7c79ca8f1f0497291436.webp",
+    "static/media/sugriva_vali_duel.webp": "/illustration/static/media/sugriva_vali_duel.44d1e41b35802dfb7ee5.webp",
     "static/media/sita_abduction.webp": "/illustration/static/media/sita_abduction.a91d1990bbb35e48a340.webp",
     "static/media/Battle_of_lanka.webp": "/illustration/static/media/Battle_of_lanka.ec9bf6df64ec75b602e2.webp",
+    "static/media/valmiki_witnessing_sorrow.webp": "/illustration/static/media/valmiki_witnessing_sorrow.6b8cd0434a89b5bf6d18.webp",
+    "static/media/rama_setu.webp": "/illustration/static/media/rama_setu.0d1bfa98c67e8e4a33f4.webp",
     "static/media/life_in_forest.webp": "/illustration/static/media/life_in_forest.2eacdc8522216b7e15a0.webp",
     "static/media/Rama_search.webp": "/illustration/static/media/Rama_search.38fdf63375a72e4b8836.webp",
+    "static/media/narada_valmiki.webp": "/illustration/static/media/narada_valmiki.154f92e75bc697e4b69e.webp",
+    "static/media/hanuman_flying.webp": "/illustration/static/media/hanuman_flying.ca074321e3c4a91fbd98.webp",
     "static/media/rama_sarayu.webp": "/illustration/static/media/rama_sarayu.05165259a99462b5492d.webp",
     "index.html": "/illustration/index.html",
     "main.d2503b02.css.map": "/illustration/static/css/main.d2503b02.css.map",
-    "main.86fe875d.js.map": "/illustration/static/js/main.86fe875d.js.map",
+    "main.be1b56c3.js.map": "/illustration/static/js/main.be1b56c3.js.map",
     "453.3f8c4aa0.chunk.js.map": "/illustration/static/js/453.3f8c4aa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2503b02.css",
-    "static/js/main.86fe875d.js"
+    "static/js/main.be1b56c3.js"
   ]
 }
