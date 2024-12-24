@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/illustration/static/css/main.a30a9110.css",
+    "main.css": "/illustration/static/css/main.86e7a285.css",
     "main.js": "/illustration/static/js/main.cf86540f.js",
     "static/js/453.3f8c4aa0.chunk.js": "/illustration/static/js/453.3f8c4aa0.chunk.js",
     "static/media/valmiki_vision.webp": "/illustration/static/media/valmiki_vision.56187d76913e1c659a5b.webp",
@@ -24,13 +24,14 @@
     "static/media/narada_valmiki.webp": "/illustration/static/media/narada_valmiki.154f92e75bc697e4b69e.webp",
     "static/media/hanuman_flying.webp": "/illustration/static/media/hanuman_flying.ca074321e3c4a91fbd98.webp",
     "static/media/rama_sarayu.webp": "/illustration/static/media/rama_sarayu.05165259a99462b5492d.webp",
+    "static/media/comic_sans.ttf": "/illustration/static/media/comic_sans.e1a8ddd3483d85e2e8fd.ttf",
     "index.html": "/illustration/index.html",
-    "main.a30a9110.css.map": "/illustration/static/css/main.a30a9110.css.map",
+    "main.86e7a285.css.map": "/illustration/static/css/main.86e7a285.css.map",
     "main.cf86540f.js.map": "/illustration/static/js/main.cf86540f.js.map",
     "453.3f8c4aa0.chunk.js.map": "/illustration/static/js/453.3f8c4aa0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a30a9110.css",
+    "static/css/main.86e7a285.css",
     "static/js/main.cf86540f.js"
   ]
 }
